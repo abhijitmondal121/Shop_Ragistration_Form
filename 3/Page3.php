@@ -55,20 +55,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
 <style>
       @media screen and (min-device-width: 250px) and (max-device-width: 449px){
 
-/* .day li button{
-    text-decoration: none;
-    display: flex;
-    padding: 3px;
-    margin: 3px;
-    border-radius:60%;
-    font-size: 12px;
-    height: 15px;
-    width: 15px;
-    color: green;
-    border: 1px solid green;
-    
-   
-} */
+
 
 .main-container{
     width:95%;
