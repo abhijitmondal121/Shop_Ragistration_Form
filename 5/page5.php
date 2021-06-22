@@ -4,7 +4,7 @@
 $con = mysqli_connect('localhost', 'root','', 'abhijit');
 if(isset($_POST['exampleRadios'])){
     $pay=$_POST['exampleRadios'];
-   // echo $pay;
+
 
 
    $sql = "UPDATE `admin-details` SET `payment_type`='$pay' WHERE `slno`= '$no'";
