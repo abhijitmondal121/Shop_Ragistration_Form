@@ -58,25 +58,7 @@ if(isset($_POST['exampleRadios'])){
     </div>
 
 
-   <!-- <form class="login-box">
-        <div class="text-box">
-            <input type="text" placeholder="Enter Shop Name" name="" value="">
-            
-        </div>
-        <div class="text-box">
-            <input type="number" placeholder="Enter Shop Phone Number" name="" value="">
-            
-        </div>
 
-
-        <div class="inner-section">
-            <p class="top-section">2. Interior - 2</p>
-            <p><i class="fa fa-plus icon3"></i></p>
-            <p class="bottom-section">Take the photo in landscape mode</p>
-        </div>
-
-    </form>
-    --> 
     <div>
         <div class="container">
           <form action="" method="post">
