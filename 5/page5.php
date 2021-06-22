@@ -1,6 +1,6 @@
 <?php
  $no =$_GET["no"];
-//include('/include/connection.php');
+
 $con = mysqli_connect('localhost', 'root','', 'abhijit');
 if(isset($_POST['exampleRadios'])){
     $pay=$_POST['exampleRadios'];
