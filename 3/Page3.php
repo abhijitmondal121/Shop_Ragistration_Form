@@ -156,11 +156,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
 
             
            
-           
-            <!-- <div class="row">
-               <input type="submit" value="Next">
-              <button>submit</button>
-            </div> -->
+
             </form>
 
         </div>
