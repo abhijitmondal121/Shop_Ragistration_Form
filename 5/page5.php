@@ -8,7 +8,7 @@ if(isset($_POST['exampleRadios'])){
 
 
    $sql = "UPDATE `admin-details` SET `payment_type`='$pay' WHERE `slno`= '$no'";
-  // $sql ="INSERT INTO `admin-details` ( `payment_type`) VALUES ( '$pay')";
+ 
     
    $result = mysqli_query($con, $sql);
 
