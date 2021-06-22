@@ -79,7 +79,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
         
     </section>
     <!--<div class="btn1">
-        <button class="btn btn-success" name="submit">Next</button>
+    
     </div>-->
     <center>
     <input type="submit" value="Next" style="background-color:#4CAF50;padding:5px 20px; border-radius: 12%;border-color: #3da35b;border: #4CAF50 4px solid;" >  
