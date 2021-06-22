@@ -39,7 +39,7 @@ if(isset($_POST['exampleRadios'])){
 <body>
     <div class="header">
 
-     <!--   <i id="icon" class="fa fa-arrow-circle-o-left"></i>  -->
+ 
         <h2 class="heading-top" style="margin-left:550px;">Select payment mode(4/4) </h2>
     </div>
 
