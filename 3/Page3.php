@@ -69,16 +69,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
     
    
 } */
-/* .btnplus{
-    height: 16px;
-    width: 16px;
-    font-size: 9px;
-    border-radius: 50%;
-    color: #4CAF50;
-    border-color: #3da35b;
-    border: #4CAF50 2px solid;
-    margin-right: 0px;
-} */
+
 .main-container{
     width:95%;
     margin:auto;
